@@ -8,7 +8,7 @@ import { FontAwesome5 } from '@expo/vector-icons';
 import { Background, Container, AreaInput, Input, PasswordText, PasswordTitle, View, Image,SubmitButtonContainer, SubmitButton, SubmitText} from '../SignIn/styles';
 
 import IconCheck from '../../assets/icon-check.png'
-
+import IconClose from '../../assets/icon-close.png'
 
 
 export default function SignUp() {
